@@ -15,8 +15,7 @@ A sleek, responsive, and fully functional calculator built with **Vue 3** and **
 
 ## 🚀 Live Demo
 
-👉 **[Click Here](https://your-project.vercel.app)**  
-*(Replace with your actual deployment link)*
+👉 **[Click Here](https://calculator-app-omega-rouge.vercel.app)**  
 
 ---
 
